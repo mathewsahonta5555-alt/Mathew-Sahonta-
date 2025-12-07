@@ -41,8 +41,8 @@
 ---
 
 ## 🔗 Connect With Me
-- 🎨 **Figma:** https://www.figma.com/@YOUR_USERNAME  
-- 🐙 **GitHub:** https://github.com/YOUR_USERNAME  
+- 🎨 **Figma:** https://figma.com/@mathewsahonta  
+- 🐙 **GitHub:** https://github.com/mathewsahonta5555-alt
 
 ---
 
